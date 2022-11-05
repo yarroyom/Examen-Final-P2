@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamenFinalP2</string>
+    <string name = "hint_usuario">"usuario:</string>
+    <string name = "hint_password">"passeord:</string>
+    <string name = "btn_Guarda">"Guardar registro:</string>
+    <string name="menu_nuevo">Nuevo Registro</string>
+</resources>
